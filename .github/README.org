@@ -1,0 +1,21 @@
+#+TITLE: counter
+#+AUTHOR: suyeden
+#+EMAIL: 
+#+OPTIONS: toc:nil num:nil author:nil creator:nil LaTeX:t \n:t
+#+STARTUP: showall
+
+* counter
+
+  [![GitHub license](https://img.shields.io/github/license/suyeden/counter)](https://github.com/suyeden/counter/blob/master/LICENSE)
+
+** 概要
+   [[https://suyeden.github.io/demo/counter/][デモはこちらから]]
+
+   ブラウザ上で動くカウンターアプリです。
+   jQuery と Canvas の勉強がてら作りました。
+
+   このカウンターには以下のような機能があります。
+   - カウンターのプラス／マイナス切り替え
+   - 数値の足し算／引き算機能
+   - 数値のリセット
+   - タップ時のバイブ機能（モバイル端末のみ、Safari など一部ブラウザを除く）
